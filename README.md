@@ -5,8 +5,9 @@
 - 🤔 I’m looking for help with JAVASCRIPT 
 - 💬 Ask me about anything
 - 📫 How to reach me: https://www.linkedin.com/in/aditi-sharma-060a84175/
-           Instagram as iam_aditi23
-           Email me @ aditisharma232014@gmail.com
+         Email me @ aditisharma232014@gmail.com
+         Instagram as iam_aditi23      
+
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
         Just learn, connect and grow <3 

@@ -1,10 +1,4 @@
-### Hey! 👋
-
-<!--
-**aditi931/aditi931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+ Hey!👋 I am Aditi Sharma , currently in my 4th sem of computer science engineering
 - 🔭 I’m currently working on Machine Learning projects
 - 🌱 I’m currently learning Data structure and algorithm
 - 👯 I’m looking to collaborate on future projects and doing CP discussion

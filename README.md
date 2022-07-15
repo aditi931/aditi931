@@ -1,4 +1,3 @@
-[![MasterHead]https://www.istockphoto.com/vector/machine-learning-banner-logo-for-technology-ai-big-data-algorithm-neural-network-gm1273072739-375131265
 
 <h3 align="center">A passionate frontend developer from India</h3>
 

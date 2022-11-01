@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **CP discussion**
 
-- 👨‍💻 All of my projects are available at [portfolio link coming soon](https://portfollio-website23.super.site/)
+- 👨‍💻 All of my projects are available at [portfollio](https://portfollio-website23.super.site/)
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Aditi-Sharma-3444](https://www.quora.com/profile/Aditi-Sharma-3444)
 

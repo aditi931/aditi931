@@ -1,18 +1,18 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on Face recognition for payment
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate as **GDSC Lead**
+- 👯 I’m looking to collaborate as **GDSC Alumni**
 
-- 🤝 I’m looking for help with **CP discussion**
+- 🤝 I’m looking for help with **Interview Prep**
 
 - 👨‍💻 All of my projects are available at [portfollio](https://portfollio-website23.super.site/)
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Aditi-Sharma-3444](https://www.quora.com/profile/Aditi-Sharma-3444)
 
-- 💬 Ask me about **...**
+- 💬 Ask me about **Life and books **
 
 - 📫 How to reach me **aditisharma232014@gmail.com**
 

@@ -1,8 +1,8 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
-- 🔭 I’m currently working on Face recognition for payment
+- 🔭 I’m currently working on NLP
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate as **GDSC Alumni**
 

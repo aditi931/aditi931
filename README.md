@@ -3,7 +3,7 @@ I’m an **AI Engineer** passionate about **Generative AI, Computer Vision, and 
 
 My work spans:
 -  Developing **intelligent coding assistants** using LangChain, LangGraph & RAG pipelines  
--  Building **image inpainting and segmentation tools** with Stable Diffusion & SAM  
+-  Building **automation tools** with Agentic AI & Fine Tuning  
 -  Designing **deep learning models** to solve real-world challenges end-to-end  
 
 ---

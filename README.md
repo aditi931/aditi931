@@ -66,9 +66,7 @@ My work spans:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi931&theme=radical" alt="streak" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi931&theme=radical&hide_border=false" alt="GitHub Streak Stats" width="450"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi931&theme=radical&hide_border=false&layout=compact" alt="Top Languages" width="400"/>

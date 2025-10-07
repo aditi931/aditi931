@@ -13,7 +13,7 @@ My work spans:
 
 ### 🌐 Socials
 <p align="center">
-
+  <a href="https://www.linkedin.com/in/aditisharma2307" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="45" width="45" />
   </a>
   &nbsp;&nbsp;&nbsp;

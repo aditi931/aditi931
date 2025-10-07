@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditi Sharma</h1>
-<h3 align="center">AI Engineer | Generative AI | Deep Learning | LLM Applications</h3>
-
-### 👩‍💻 About Me  
+## 👩‍💻 About Me  
 I’m an **AI Engineer** passionate about **Generative AI, Computer Vision, and Large Language Models**, building impactful AI solutions from **concept to deployment**.  
 
 My work spans:
@@ -11,7 +8,7 @@ My work spans:
 
 ---
 
-### 🌐 Socials
+## 🌐 Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/aditisharma2307" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="45" width="45" />
@@ -25,8 +22,6 @@ My work spans:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="45" width="45" />
   </a>
 </p>
-
-
 
 ---
 
@@ -73,7 +68,6 @@ My work spans:
   <img src="https://github-readme-stats.vercel.app/api?username=aditi931&show_icons=true&theme=radical" alt="aditi stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-sharma2320&theme=radical" alt="streak" height="150"/>
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi931&theme=radical&hide_border=false" alt="GitHub Streak Stats" width="450"/>

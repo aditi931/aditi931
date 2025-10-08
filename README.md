@@ -1,5 +1,5 @@
 ## 👩‍💻 About Me  
-I’m an **AI Engineer** passionate about **Generative AI, Computer Vision, and Large Language Models**, building impactful AI solutions from **concept to deployment**.  
+I’m an **AI Engineer** passionate about **Generative AI, NLP, and Large Language Models**, building impactful AI solutions from **concept to deployment**.  
 
 My work spans:
 -  Developing **intelligent coding assistants** using LangChain, LangGraph & RAG pipelines  
